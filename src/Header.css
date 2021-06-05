@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+.hr{
+    background-color : grey;
+    margin: 30px;
+    width:96%;
+    border-radius: 2px;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    border-radius: 30px;
+}
+.title{
+    font-family: 'Limelight', cursive ;
+    font-size: 10vh;
+    color: white;
+}

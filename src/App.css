@@ -1,0 +1,24 @@
+* { 
+  margin :0;
+  padding: 0;
+  scrollbar-width: thin;
+  box-sizing: border-box ;
+}
+*::-webkit-scrollbar{
+  width: 5px;
+  background-color: gray;
+}
+.App{
+  min-height: 100vh;
+  border: 8px solid red;
+  border-radius: 20px;
+  margin: 5px;
+  padding: 5px;
+  background: linear-gradient(rgb(240, 239, 235), rgb(8, 8, 8));
+
+}
+a{
+  text-decoration: inherit;
+  color: inherit;
+   
+}
